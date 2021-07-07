@@ -1,0 +1,4 @@
+{
+
+    "MONGO_URI":"mongodb+srv://sirinedb3:123@cluster0.iy8lk.mongodb.net/persons?retryWrites=true&w=majority"
+ }
